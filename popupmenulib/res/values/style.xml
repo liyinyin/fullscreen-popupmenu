@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="default_popup_menu_style">
+        <item name="android:windowEnterAnimation">@anim/popupmenu_show_anim</item>
+        <item name="android:windowExitAnimation">@anim/popupmenu_dismiss_anim</item>
+    </style>
+    <style name="default_popup_menu_bg_style">
+        <item name="android:windowEnterAnimation">@anim/popupmenu_bg_show_anim</item>
+        <item name="android:windowExitAnimation">@anim/popupmenu_bg_dismiss_anim</item>
+    </style>
+</resources>
